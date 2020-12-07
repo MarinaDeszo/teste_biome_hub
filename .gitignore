@@ -1,0 +1,12 @@
+# .gitignore: list of files that must be ignored by Git. Project BiomeHub
+#
+# AUTHOR:Marina S Deszo                CREATED: 12/06/2020
+# LAST UPDATE, BY: 12/06/2020, Marina S Deszo
+
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
